@@ -1,4 +1,10 @@
 # Unity-Tool-Collections
+## NuGetForUnity 
+**Openupm**  
+Namepackage.openupm.com  
+URLhttps://package.openupm.com  
+Scope(s)com.github-glitchenzo.nugetforunity  
+
 ## UniTask 
 **Git URL** https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask  
 
