@@ -1,9 +1,9 @@
 # Unity-Tool-Collections
 ## NuGetForUnity 
 **Openupm**  
-Namepackage.openupm.com  
-URLhttps://package.openupm.com  
-Scope(s)com.github-glitchenzo.nugetforunity  
+Name package.openupm.com  
+URL https://package.openupm.com  
+Scope(s) com.github-glitchenzo.nugetforunity  
 
 ## UniTask 
 **Git URL** https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask  
@@ -11,8 +11,8 @@ Scope(s)com.github-glitchenzo.nugetforunity
 **Source** https://github.com/Cysharp/UniTask  
 ## Vertx.Debugging
 **Openupm**  
-Namepackage.openupm.com  
-URLhttps://package.openupm.com  
-Scope(s)com.vertx.debugging    
+Name package.openupm.com  
+URL https://package.openupm.com  
+Scope(s) com.vertx.debugging    
 
 **Source** https://github.com/vertxxyz/Vertx.Debugging  
